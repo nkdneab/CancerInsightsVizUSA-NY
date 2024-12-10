@@ -47,7 +47,7 @@ The project utilizes data from:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/CancerAnalyticsUSA-NY.git
+   git clone https://github.com/nkdneab/TableauCancerInsightsUSA-NY.git
    ```
 2. **Access Tableau Dashboards**: View and interact with the pre-built dashboards in Tableau.
 3. **Contribute**: Submit pull requests to improve data models or add visualizations.
