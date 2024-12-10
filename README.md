@@ -41,9 +41,9 @@ The dashboard is available on Tableau Public [here](https://10ay.online.tableau.
 
 ![3-Level Map Drill Downs](https://github.com/user-attachments/assets/028083b3-1a41-4e5d-80c0-e57b12859677)
 
+This Tableau Public dashboard [here](https://10ay.online.tableau.com/#/site/jtrit/views/Data-DrivenInsightsintoCancerIncidenceandDeathAnalyticsandVisualizationsforStrategicOpportunitiesinAmericaandNewYork/PearsonCorrelationDashboard?:embed=n&:iid=6&:origin=card_share_link) visualizes Pearson correlation coefficients for various socioeconomic and health metrics, such as death rates, incidence rates, median income, and poverty levels, across different U.S. regions. Users can interactively click on correlation values to dynamically update scatterplots and explore relationships between variables in specific regions. This tool is designed for intuitive data exploration and deeper analysis of health disparities.
 
-
-
+![Pearson Correlation Dashboard](https://github.com/user-attachments/assets/c3e47fee-b299-47e9-8dd1-7710ee351b0c)
 
 
 
