@@ -34,6 +34,20 @@ The project utilizes data from:
 - **R/Python**: For data preprocessing and statistical analysis.
 - **Excel/CSV**: For structured data storage and manipulation.
 
+
+### Dashboard
+
+The dashboard is available on Tableau Public [here](https://10ay.online.tableau.com/#/site/jtrit/views/Data-DrivenInsightsintoCancerIncidenceandDeathAnalyticsandVisualizationsforStrategicOpportunitiesinAmericaandNewYork/3-LevelMapDrillDowns?:embed=n&:iid=5&:origin=card_share_link). It allows users to filter data by region, state, and county, focusing on cancer-related metrics such as incidence rates, death rates, and the mortality-to-incidence ratio. With interactive features, users can explore regional trends and drill down to state and county levels for deeper analysis.
+
+![3-Level Map Drill Downs](https://github.com/user-attachments/assets/028083b3-1a41-4e5d-80c0-e57b12859677)
+
+
+
+
+
+
+
+
 ### Key Insights
 
 - Washington County has the highest average death rate (198.4).
