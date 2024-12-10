@@ -1,4 +1,7 @@
 # CancerInsightsVizUSA-NY
+
+![Slide1](https://github.com/user-attachments/assets/fd0a4a26-c191-4a80-984a-93a9d77964f0)
+
 # Data-Driven Insights into Cancer Incidence and Death
 
 ## Analytics and Visualizations for Strategic Opportunities in America and New York
