@@ -46,25 +46,32 @@ This Tableau Public dashboard [here](https://10ay.online.tableau.com/#/site/jtri
 
 ### Presentation Sample
 
-The presentation developed for the healthcare analytics team outlines the key insights and recommendations from this project and is available [here](insert link). Below are some highlights for quick reference.
+The presentation developed for the healthcare analytics team outlines the key insights and recommendations from this project and is available [here](https://10ay.online.tableau.com/t/jtrit/views/Data-DrivenInsightsintoCancerIncidenceandDeathAnalyticsandVisualizationsforStrategicOpportunitiesinAmericaandNewYork/RochesterRegionalHealthData-DrivenInsightsintoCancerIncidenceandDeath?:origin=card_share_link&:embed=n). Below are some highlights for quick reference.
 
 ![image](https://github.com/user-attachments/assets/e3293e0c-8e7a-4246-a1f4-11cfe33caaba)
 
 ![image](https://github.com/user-attachments/assets/0612d482-0bd4-4652-bc15-5ad6a13ca289)
 
-
 ![image](https://github.com/user-attachments/assets/c2ee44b0-cb8e-47ac-a5c7-91cd3104489b)
-
-
 
 ### Key Insights
 
-- Washington County has the highest average death rate (198.4).
-- Strong correlations identified between median income and death rates in specific regions.
-- **High-Study Counties**: Counties with higher socioeconomic metrics tend to show lower death rates, indicating the influence of education and income on health outcomes.
-- **Population Density Impact**: Urban counties often show differing patterns in incidence and death rates compared to rural counties, suggesting resource accessibility and healthcare quality disparities.
-- **Age Demographics**: Regions with higher elderly populations report elevated death rates, underlining the need for targeted interventions in these areas.
-- **Income Disparities**: Significant gaps in outcomes are observed between high-income and low-income counties, calling for focused policy measures.
+### 1. Regional Trends
+- The **Northeast** has the highest cancer incidence rate (486.69), led by **New York** (498.29).
+- The **South** shows the highest cancer death rate (188.76) and death-to-incidence ratio (0.422).
+
+### 2. State Highlights
+- **Kentucky** has the highest death (215.32) and incidence (512.7) rates in the South.
+- **Washington County, NY**, reports the highest death rate (198.4) in the Northeast.
+
+### 3. Correlations
+- **Income:** Higher income correlates with lower death rates (-0.5068).
+- **Poverty:** Poverty correlates with higher death rates (0.4534) and potential underreporting.
+
+### 4. Healthcare Interventions
+- **High-Risk Areas:** Focus on improved screening, treatment, and mobile clinics.
+- **Low-Income Areas:** Target with affordable preventive programs.
+- **Underserved Regions:** Expand healthcare access in high-poverty areas.
 
 ### How to Use This Repository
 
