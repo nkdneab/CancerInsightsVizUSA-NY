@@ -2,10 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/587efcee-29fb-4e90-8ade-f13d243ea176)
 
-# Data-Driven Insights into Cancer Incidence and Death
-
-## Analytics and Visualizations for Strategic Opportunities in America and New York
-
 ### Overview
 
 This project leverages data analytics and visualization techniques to provide insights into cancer incidence and death rates across the United States and New York. Using Tableau for interactive visualizations, the project aims to identify key patterns and correlations to inform policy and healthcare strategies.
@@ -48,6 +44,20 @@ This Tableau Public dashboard [here](https://10ay.online.tableau.com/#/site/jtri
 
 ![Pearson Correlation Dashboard](https://github.com/user-attachments/assets/c3e47fee-b299-47e9-8dd1-7710ee351b0c)
 
+
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/e3293e0c-8e7a-4246-a1f4-11cfe33caaba)
+
+![image](https://github.com/user-attachments/assets/0612d482-0bd4-4652-bc15-5ad6a13ca289)
+
+
+![image](https://github.com/user-attachments/assets/c2ee44b0-cb8e-47ac-a5c7-91cd3104489b)
 
 
 
