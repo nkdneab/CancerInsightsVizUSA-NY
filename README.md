@@ -44,13 +44,9 @@ This Tableau Public dashboard [here](https://10ay.online.tableau.com/#/site/jtri
 
 ![Pearson Correlation Dashboard](https://github.com/user-attachments/assets/c3e47fee-b299-47e9-8dd1-7710ee351b0c)
 
+### Presentation Sample
 
-
-
-
-
-
-
+The presentation developed for the healthcare analytics team outlines the key insights and recommendations from this project and is available [here](insert link). Below are some highlights for quick reference.
 
 ![image](https://github.com/user-attachments/assets/e3293e0c-8e7a-4246-a1f4-11cfe33caaba)
 
