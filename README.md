@@ -57,7 +57,6 @@ The project utilizes data from:
 ```
 CancerAnalyticsUSA-NY/
 ├── data/         # Raw and processed datasets
-├── notebooks/    # Analysis scripts (R, Python)
 ├── dashboards/   # Tableau files
 ├── reports/      # Project documentation
 └── README.md    # Project overview
